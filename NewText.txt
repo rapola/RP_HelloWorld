@@ -1,1 +1,2 @@
 adding text
+https://forum.m5stack.com/topic/1590/esp32-and-the-spiffs-file-system
