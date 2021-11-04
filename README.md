@@ -9,5 +9,7 @@ https://diyprojects.io/esp32-get-started-spiff-library-read-write-modify-files <
 http://www.getmicros.net/esp8266-spiffs-example.php <br>
 
 - - - -
-make a repo for defined pinouts of often used connectors
+## todo
+- make a repo for defined pinouts of often used connectors
+- make a countdown library for arduino
 
