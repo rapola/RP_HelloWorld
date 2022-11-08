@@ -2,6 +2,8 @@
 
 ### Github emojis
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+### Github table
+https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
 - - - -
 ### ESP32
 * SPIFFS
