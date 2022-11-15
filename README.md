@@ -1,5 +1,8 @@
 ## Useful links:
 
+### ASCII
+https://www.ascii-codes.com/
+
 ### Github emojis
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ### Github table
