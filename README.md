@@ -19,6 +19,24 @@ https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
   * https://www.arduinoslovakia.eu/application/timer-calculator
 
 - - - -
+### C/C++ bitmanipulation macros
+* Put this macros in top of a header file...
+* Set a bit:
+  * #define SET_BIT(byte, bit) ((byte) |= (1UL << (bit)))
+
+* Clear a bit:
+  * #define CLEAR_BIT(byte,bit) ((byte) &= ~(1UL << (bit)))
+
+* Toggle a bit:
+  * #define TOGGLE_BIT(byte, bit) ((byte) ^= (1UL << (bit)))
+
+* Returns true if specific bit is set
+  * #define IS_SET(byte,bit) (((byte) & (1UL << (bit))) >> (bit))
+ 
+* See (06.06.2023):
+  * https://www.codementor.io/@hbendali/c-c-macro-bit-operations-ztrat0et6
+
+- - -
 ## todo
 - make a repo for defined pinouts of often used connectors
 - make a countdown library for arduino
