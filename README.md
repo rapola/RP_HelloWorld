@@ -19,6 +19,7 @@ https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
   * https://www.arduinoslovakia.eu/application/timer-calculator
 * New AVR 0 and 1 Series
   * https://hackaday.io/project/165881-attiny-1-series-with-arduino-support/log/164411-new-method-for-writting-registers-on-the-0-and-1-series
+  * https://github.com/SpenceKonde/megaTinyCore/blob/master/megaavr/extras/Ref_Reset.md
 
 - - - -
 ### C/C++ bitmanipulation macros
