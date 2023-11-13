@@ -41,6 +41,7 @@ https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
 - - -
 ## Pi Pico
 * USB-Serial is not Woking if "DTR_CONTROL_ENABLE" is not set, see:
+   * https://github.com/rapola/RP_HelloWorld/blob/master/Pics/Termite_Settings_PiPico_USB_Serial.PNG
   
 
 - - -
