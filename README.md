@@ -38,6 +38,10 @@ https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
  
 * See (06.06.2023):
   * https://www.codementor.io/@hbendali/c-c-macro-bit-operations-ztrat0et6
+- - -
+## Pi Pico
+* USB-Serial is not Woking if "DTR_CONTROL_ENABLE" is not set, see:
+  
 
 - - -
 ## todo
